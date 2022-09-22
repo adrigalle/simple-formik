@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import React from 'react'; // needed to add in this bish
 import {useFormik} from 'formik'; // to make form after installing, also need to create a const useFormik thing below
 
